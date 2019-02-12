@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "index": "/CDXTotem/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/CDXTotem/es2015-polyfills.12eccedba99646c7daca.js",
+        "/CDXTotem/favicon.ico",
+        "/CDXTotem/index.html",
+        "/CDXTotem/main.7963ea691e9e40a5d32f.js",
+        "/CDXTotem/polyfills.407a467dedb63cfdd103.js",
+        "/CDXTotem/runtime.a5dd35324ddfd942bef1.js",
+        "/CDXTotem/styles.fe2913c7138284024ce1.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/CDXTotem/MaterialIcons-Regular.016c14adad95a0e21a2a.eot",
+        "/CDXTotem/MaterialIcons-Regular.55242ea5c378da626cab.ttf",
+        "/CDXTotem/MaterialIcons-Regular.8a9a261c8b8dfe90db11.woff2",
+        "/CDXTotem/MaterialIcons-Regular.c38ebd3cd38c98fbd16b.woff",
+        "/CDXTotem/assets/icons/icon-128x128.png",
+        "/CDXTotem/assets/icons/icon-144x144.png",
+        "/CDXTotem/assets/icons/icon-152x152.png",
+        "/CDXTotem/assets/icons/icon-192x192.png",
+        "/CDXTotem/assets/icons/icon-384x384.png",
+        "/CDXTotem/assets/icons/icon-512x512.png",
+        "/CDXTotem/assets/icons/icon-72x72.png",
+        "/CDXTotem/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/CDXTotem/MaterialIcons-Regular.016c14adad95a0e21a2a.eot": "209bd89a039319dde3e2f8faf3be0654bf1efe1d",
+    "/CDXTotem/MaterialIcons-Regular.55242ea5c378da626cab.ttf": "43b80e6f91ad216b968fa33d68719beaf3b98f08",
+    "/CDXTotem/MaterialIcons-Regular.8a9a261c8b8dfe90db11.woff2": "75c69e8b7c1ceaeac5f8876e77a4d67c3d01ce43",
+    "/CDXTotem/MaterialIcons-Regular.c38ebd3cd38c98fbd16b.woff": "a08b7fe277c216f88233bde44b0f8bfadbec7d87",
+    "/CDXTotem/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/CDXTotem/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/CDXTotem/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/CDXTotem/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/CDXTotem/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/CDXTotem/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/CDXTotem/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/CDXTotem/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/CDXTotem/es2015-polyfills.12eccedba99646c7daca.js": "e546b81560cf13f04d7e6a3944e5e3087f131356",
+    "/CDXTotem/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/CDXTotem/index.html": "36c72f730d8e6fac857f9b59925f3d7e2f4e9363",
+    "/CDXTotem/main.7963ea691e9e40a5d32f.js": "ba7b3837d6c3efa98161cf02722d15b4aafab9a0",
+    "/CDXTotem/polyfills.407a467dedb63cfdd103.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "/CDXTotem/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/CDXTotem/styles.fe2913c7138284024ce1.css": "ae9dc8870780ca99a3f4f5aee62eb1b04197c539"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
